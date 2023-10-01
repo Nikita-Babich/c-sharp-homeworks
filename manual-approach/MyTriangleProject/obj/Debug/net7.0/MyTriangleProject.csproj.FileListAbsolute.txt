@@ -1,0 +1,15 @@
+C:\Users\NIK\Documents\_github\c-sharp-homeworks\manual-approach\MyTriangleProject\obj\Debug\net7.0\MyTriangleProject.csproj.AssemblyReference.cache
+C:\Users\NIK\Documents\_github\c-sharp-homeworks\manual-approach\MyTriangleProject\obj\Debug\net7.0\MyTriangleProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NIK\Documents\_github\c-sharp-homeworks\manual-approach\MyTriangleProject\obj\Debug\net7.0\MyTriangleProject.AssemblyInfoInputs.cache
+C:\Users\NIK\Documents\_github\c-sharp-homeworks\manual-approach\MyTriangleProject\obj\Debug\net7.0\MyTriangleProject.AssemblyInfo.cs
+C:\Users\NIK\Documents\_github\c-sharp-homeworks\manual-approach\MyTriangleProject\obj\Debug\net7.0\MyTriangleProject.csproj.CoreCompileInputs.cache
+C:\Users\NIK\Documents\_github\c-sharp-homeworks\manual-approach\MyTriangleProject\bin\Debug\net7.0\MyTriangleProject.exe
+C:\Users\NIK\Documents\_github\c-sharp-homeworks\manual-approach\MyTriangleProject\bin\Debug\net7.0\MyTriangleProject.deps.json
+C:\Users\NIK\Documents\_github\c-sharp-homeworks\manual-approach\MyTriangleProject\bin\Debug\net7.0\MyTriangleProject.runtimeconfig.json
+C:\Users\NIK\Documents\_github\c-sharp-homeworks\manual-approach\MyTriangleProject\bin\Debug\net7.0\MyTriangleProject.dll
+C:\Users\NIK\Documents\_github\c-sharp-homeworks\manual-approach\MyTriangleProject\bin\Debug\net7.0\MyTriangleProject.pdb
+C:\Users\NIK\Documents\_github\c-sharp-homeworks\manual-approach\MyTriangleProject\obj\Debug\net7.0\MyTriangleProject.dll
+C:\Users\NIK\Documents\_github\c-sharp-homeworks\manual-approach\MyTriangleProject\obj\Debug\net7.0\refint\MyTriangleProject.dll
+C:\Users\NIK\Documents\_github\c-sharp-homeworks\manual-approach\MyTriangleProject\obj\Debug\net7.0\MyTriangleProject.pdb
+C:\Users\NIK\Documents\_github\c-sharp-homeworks\manual-approach\MyTriangleProject\obj\Debug\net7.0\MyTriangleProject.genruntimeconfig.cache
+C:\Users\NIK\Documents\_github\c-sharp-homeworks\manual-approach\MyTriangleProject\obj\Debug\net7.0\ref\MyTriangleProject.dll

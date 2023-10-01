@@ -1,0 +1,15 @@
+C:\Users\NIK\Documents\_github\c-sharp-homeworks\triangle-and-reverse\bin\Debug\net6.0\triangle-and-reverse.exe
+C:\Users\NIK\Documents\_github\c-sharp-homeworks\triangle-and-reverse\bin\Debug\net6.0\triangle-and-reverse.deps.json
+C:\Users\NIK\Documents\_github\c-sharp-homeworks\triangle-and-reverse\bin\Debug\net6.0\triangle-and-reverse.runtimeconfig.json
+C:\Users\NIK\Documents\_github\c-sharp-homeworks\triangle-and-reverse\bin\Debug\net6.0\triangle-and-reverse.dll
+C:\Users\NIK\Documents\_github\c-sharp-homeworks\triangle-and-reverse\bin\Debug\net6.0\triangle-and-reverse.pdb
+C:\Users\NIK\Documents\_github\c-sharp-homeworks\triangle-and-reverse\obj\Debug\net6.0\triangle-and-reverse.csproj.AssemblyReference.cache
+C:\Users\NIK\Documents\_github\c-sharp-homeworks\triangle-and-reverse\obj\Debug\net6.0\triangle-and-reverse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NIK\Documents\_github\c-sharp-homeworks\triangle-and-reverse\obj\Debug\net6.0\triangle-and-reverse.AssemblyInfoInputs.cache
+C:\Users\NIK\Documents\_github\c-sharp-homeworks\triangle-and-reverse\obj\Debug\net6.0\triangle-and-reverse.AssemblyInfo.cs
+C:\Users\NIK\Documents\_github\c-sharp-homeworks\triangle-and-reverse\obj\Debug\net6.0\triangle-and-reverse.csproj.CoreCompileInputs.cache
+C:\Users\NIK\Documents\_github\c-sharp-homeworks\triangle-and-reverse\obj\Debug\net6.0\triangle-and-reverse.dll
+C:\Users\NIK\Documents\_github\c-sharp-homeworks\triangle-and-reverse\obj\Debug\net6.0\refint\triangle-and-reverse.dll
+C:\Users\NIK\Documents\_github\c-sharp-homeworks\triangle-and-reverse\obj\Debug\net6.0\triangle-and-reverse.pdb
+C:\Users\NIK\Documents\_github\c-sharp-homeworks\triangle-and-reverse\obj\Debug\net6.0\triangle-and-reverse.genruntimeconfig.cache
+C:\Users\NIK\Documents\_github\c-sharp-homeworks\triangle-and-reverse\obj\Debug\net6.0\ref\triangle-and-reverse.dll
