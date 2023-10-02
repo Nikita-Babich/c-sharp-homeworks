@@ -1,9 +1,8 @@
 ﻿// csc triangle-and-reverse.cs
-//dotnet new console -n MyProjectName
 // dotnet build file1.cs file2.cs file3.cs
 // dotnet run
 // dotnet publish -c Release -r win-x64
-// risky // dotnet publish -c Release -r win10-x64 --self-contained
+// dotnet publish -c Release -r win10-x64 --self-contained
 
 using System;
 
