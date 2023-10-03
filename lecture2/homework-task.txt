@@ -1,0 +1,7 @@
+Cvičenie 2.
+
+Vytvorte program:
+1. ktorý bude obsahovať triedu Product, v ktorej bude uložený názov produktu, jeho
+neceločíselná cena a početnosť na sklade. Trieda musí spĺňať princíp data hiding.
+2. ktorý načíta z textového súboru informácie o minimálne 3 produktoch a uloží tieto informácie
+to poľa objektov triedy Product. Po načítaní vypíšte informácie do konzoly.
